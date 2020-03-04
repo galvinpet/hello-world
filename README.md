@@ -1,2 +1,3 @@
 # hello-world
 This is my first time using this...
+Hi there, my name is Peter. I'm an instrumentalist playing the piano and guitar, I love music and anything attached to it, I do sound at a low level "I'm still learning how everything works" and I have a huge PASSION FOR PROGRAMMING.
